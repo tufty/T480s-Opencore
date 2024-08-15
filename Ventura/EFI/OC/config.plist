@@ -288,7 +288,7 @@
 				<key>AAPL,ig-platform-id</key>
 				<data>AADAhw==</data>
 				<key>device-id</key>
-				<data>FlkAAA==</data>
+				<data>wIcAAA==</data>
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-type</key>
@@ -1329,7 +1329,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 -vsmcgen=2 alcverbs=1</string>
+				<string>debug=0x100 keepsyms=1 -vsmcgen=2 alcverbs=1 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
